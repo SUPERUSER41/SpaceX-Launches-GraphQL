@@ -1,7 +1,8 @@
 # SpaceX-Launches-GraphQL
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
-### Demo https://hidden-savannah-36563.herokuapp.com/
+### [Demo](https://hidden-savannah-36563.herokuapp.com/)
+Check out my react.js app that demonstrates the use of GraphQL to pull from SpaceX REST API 
 
 # [Analysis of GraphQL:](https://docs.google.com/document/d/1fcepcMf7ceBcZ22kQsMf8jWKUG-LSYDp68ww5CuDPuo/edit?usp=sharing)
 The above is a google docs link to the analysis of GraphQL language
