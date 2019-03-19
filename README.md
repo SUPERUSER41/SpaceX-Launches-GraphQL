@@ -3,9 +3,10 @@
 
 ### Demo https://hidden-savannah-36563.herokuapp.com/
 
-## Analysis of GraphQL: https://docs.google.com/document/d/1fcepcMf7ceBcZ22kQsMf8jWKUG-LSYDp68ww5CuDPuo/edit?usp=sharing
+## [Analysis of GraphQL:] (https://docs.google.com/document/d/1fcepcMf7ceBcZ22kQsMf8jWKUG-LSYDp68ww5CuDPuo/edit?usp=sharing)
 
-## Grammar https://github.com/SUPERUSER41/SpaceX-Launches-GraphQL/blob/master/GraphQL-Grammar.md
+# [GraphQL Grammar](https://github.com/SUPERUSER41/SpaceX-Launches-GraphQL/blob/master/GraphQL-Grammar.md)
+
 
 ## Quick Start
 
